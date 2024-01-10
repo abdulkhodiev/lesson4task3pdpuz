@@ -10,9 +10,15 @@ function App() {
                 <div className="logo-links d-flex align-items-center gap-3">
                     <p className="mb-0 fs-2">Start Bootstrap</p>
                     <div className="links d-flex gap-3">
-                        <a href="/">Home</a>
-                        <a href="/">About</a>
-                        <a href="/">Shop</a>
+                        <a href="/" className="text-decoration-none">
+                            Home
+                        </a>
+                        <a href="/" className="text-decoration-none">
+                            About
+                        </a>
+                        <a href="/" className="text-decoration-none">
+                            Shop
+                        </a>
                     </div>
                 </div>
                 <div className="shop-link">Cart</div>
@@ -39,7 +45,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -57,7 +63,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -75,7 +81,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -93,7 +99,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -111,7 +117,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -129,7 +135,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -147,7 +153,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
@@ -165,7 +171,7 @@ function App() {
                                 <p className="card-text">$40.00 - $80.00</p>
                                 <a
                                     href="#"
-                                    className="btn border border-1  rounded-1">
+                                    className="btn border border-1 rounded-1">
                                     Go somewhere
                                 </a>
                             </div>
